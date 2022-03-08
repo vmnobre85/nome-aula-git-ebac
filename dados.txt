@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Victor Maciel Ventura Nobre
+-Profissão: Engenheiro de Software
+-Cidade: Fortaleza-CE
+-O que faz nas horas vaga: Assistir jogos do meu time no estádio
+-Feedback sobre o curso Qualidade de Software: Gostando bastante
+-Feedback sobre a plataforma de estudo da EBAC: Melhorou muito após atualização
+
+Obrigado!!!
+
+
